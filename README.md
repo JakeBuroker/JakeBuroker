@@ -6,7 +6,7 @@
 
 🤔 Seeking advice on career progression in tech to effectively navigate my post-graduation journey.
 
-🌀 I'm passionate about leveraging React and Material-UI to craft dynamic user interfaces, with a strong focus on front-end development and creating aesthetically pleasing features.
+🌀 I'm passionate about leveraging React and Material-UI to craft dynamic user interfaces, with a strong focus on creating aesthetically pleasing features.
 
 📫 Eager to meet like-minded professionals and explore opportunities to contribute to impactful projects, I'm prepared to bring my skills and passion to the team, contributing to meaningful projects and growing my skills in a supportive team environment. Let's connect!
 
