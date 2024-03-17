@@ -1,4 +1,4 @@
-## I'm Jake Buroker, Software Engineer and graduate of Prime Digital Academy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## I'm Jake Buroker, Software Engineer and recent graduate of Prime Digital Academy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 🚀 My time at Prime Digital Academy, a full-time, on-campus, accelerated learning program focused on full-stack development, equipped me with hands-on experience and in-depth knowledge of the software development lifecycle. This experience taught me how to develop applications from the ground up, covering scoping, design, development, testing, and deployment
 
