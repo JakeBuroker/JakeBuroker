@@ -8,7 +8,7 @@
 
 🌀 I'm passionate about leveraging React and Material-UI to craft dynamic user interfaces, with a strong focus on creating aesthetically pleasing features.
 
-📫 Eager to meet like-minded professionals and explore opportunities to contribute to impactful projects, I'm prepared to bring my skills and passion to the team, contributing to meaningful projects and growing my skills in a supportive team environment. Let's connect!
+📫 Eager to connect with like-minded professionals and explore opportunities to contribute to impactful projects, I am prepared to bring my skills to the team and make meaningful contributions. Let's connect!
 
 [![Linkedin: JakeBuroker](https://img.shields.io/badge/-JakeBuroker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakeburoker/)](https://www.linkedin.com/in/jakeburoker/)
 [![Gmail: JakeTBuroker](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JakeTBuroker@gmail.com)
