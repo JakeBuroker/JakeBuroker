@@ -1,6 +1,6 @@
 ## Full-Stack Software Dev & Recent Prime Digital Academy Graduate <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🚀 My time at Prime Digital Academy, a full-time, on-campus, accelerated learning program focused on full-stack development, equipped me with hands-on experience and in-depth knowledge of the software development lifecycle. This experience taught me how to develop applications from the ground up, covering scoping, design, development, testing, and deployment
+🚀 My time at Prime Digital Academy, a full-time, on-campus, accelerated learning program focused on full-stack development, equipped me with hands-on experience and in-depth knowledge of the software development lifecycle. This experience taught me how to develop applications from the ground up, covering scoping, design, development, testing, and deployment.
 
 🔭 I'm actively seeking roles as a Software Engineer, where I can bring my practical experience into play. I'm prepared to contribute to, and grow within, real-world tech environments.
 
