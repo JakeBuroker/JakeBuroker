@@ -1,14 +1,10 @@
-## I'm Jake Buroker, Software Engineer and recent graduate of Prime Digital Academy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Full-Stack Software Dev and Recent Prime Digital Academy Graduate <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 🚀 My time at Prime Digital Academy, a full-time, on-campus, accelerated learning program focused on full-stack development, equipped me with hands-on experience and in-depth knowledge of the software development lifecycle. This experience taught me how to develop applications from the ground up, covering scoping, design, development, testing, and deployment
 
 🔭 I'm actively seeking roles as a Software Engineer, where I can bring my practical experience into play. I'm prepared to contribute to, and grow within, real-world tech environments.
 
-🤔 Seeking advice on career progression in tech to effectively navigate my post-graduation journey.
-
-🌀 I'm passionate about leveraging React to craft dynamic user interfaces, with a strong focus on creating aesthetically pleasing, user-friendly components.
-
-📫 Eager to connect with like-minded professionals and explore opportunities to contribute to impactful projects, I am prepared to bring my skills to the team and make meaningful contributions. Let's connect!
+📫 I am eager to connect with like-minded professionals and explore opportunities to contribute to impactful projects, I am prepared to bring my skills to the team and make meaningful contributions. Let's connect!
 
 [![Linkedin: JakeBuroker](https://img.shields.io/badge/-JakeBuroker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakeburoker/)](https://www.linkedin.com/in/jakeburoker/)
 [![Gmail: JakeTBuroker](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JakeTBuroker@gmail.com)
