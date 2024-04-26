@@ -4,7 +4,7 @@
 
 🔭 I'm actively seeking roles as a Software Engineer, where I can bring my practical experience into play. I'm prepared to contribute to, and grow within, real-world tech environments.
 
-📫 I am eager to connect with like-minded professionals and explore opportunities to contribute to impactful projects, I am prepared to bring my skills to the team and make meaningful contributions. Let's connect!
+📫 Eager to connect with like-minded professionals and explore opportunities to contribute to impactful projects, I am prepared to bring my skills to the team and make meaningful contributions. Let's connect!
 
 [![Linkedin: JakeBuroker](https://img.shields.io/badge/-JakeBuroker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakeburoker/)](https://www.linkedin.com/in/jakeburoker/)
 [![Gmail: JakeTBuroker](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JakeTBuroker@gmail.com)
